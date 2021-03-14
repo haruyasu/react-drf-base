@@ -1,0 +1,11 @@
+myvenv
+db.sqlite3
+.vscode
+__pycache__
+*.pyc
+.DS_Store
+node_modules
+local_settings.py
+.env*
+frontend/build
+.eslintcache
